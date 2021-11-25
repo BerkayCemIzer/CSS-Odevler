@@ -1,0 +1,44 @@
+/* Body özellikleri */
+body {
+    margin: auto 5%;
+    background-color: #FFF;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+/* Menü Link Ayarı */
+
+navbar ul li a {
+    text-decoration: none;
+}
+
+/* Navbar Menü Ayarları */
+
+navbar ul li{
+    display: inline-block;
+    margin-right: 20px;
+    list-style-type: none;
+    font-family: 'Oswald', sans-serif;
+    
+}
+
+/* Ürün resimlerinin genişliği için ayarlanmış class */
+
+.img-size {
+    width: 200px;
+}
+
+/* Başlık ayarları */
+
+h1,h2,h3,h4 {
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+}
+
+
+
+/* Ürün bölümleri için border class'ı */
+
+.border {
+    border: 2px solid black;
+    padding: 10px;
+}
