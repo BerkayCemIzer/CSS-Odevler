@@ -1,0 +1,69 @@
+/********************* Body Area Start ************************/
+body {
+  margin: 0;
+  padding: 0;
+}
+/********************* Body Area Finish ************************/
+
+
+
+/********************* Container Area Start ************************/
+.container {
+  width: 90%;
+  margin: 10px auto;
+}
+/********************* Container Area Finish ************************/
+
+
+
+/********************* Section Backgroun Color Start  ************************/
+.bg-ff {
+    background-color: #eeeeee;
+  }
+  /********************* Section Backgroun Color Finish ************************/
+
+
+
+/********************* Center Class for input:text and buttons Start ************************/
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+/********************* Center Class for input:text and buttons Finish ************************/
+
+
+
+/********************* Center for Text Align Start ************************/
+.t-c {
+  text-align: center;
+}
+/********************* Center for Text Align Finish ************************/
+
+
+
+/********************* BOXES width and background color area Start ************************/
+.width-box1 {
+  width: 37%;
+  background-color: #7ee5da;
+}
+
+.width-box2 {
+  width: 20%;
+  background-color: #70ccc2;
+}
+
+.width-box3 {
+  width: 43%;
+  background-color: #62b3aa;
+}
+/********************* BOXES width and background color area Finish ************************/
+
+
+
+/********************* Font Size: 13 ************************/
+.fs-13 {
+  font-size: 13px;
+}
+/********************* Font Size: 13 ************************/
